@@ -1,17 +1,35 @@
-s.youtube.com
-youtubei.googleapis.com
-redirector.googlevideo.com
-rudderstack.com
-siftscience.com
-bnc.lt
-widgets.pinterest.com
-i.instagram.com
-vk.com/rtrg
-ngfts.lge.com
-privacyportal.onetrust.com
-consent.cookiebot.com
-consentcdn.cookiebot.com
-impact.com
-api.impact.com
-click.linksynergy.com
-www.awin1.com
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 m.instagram.com
+0.0.0.0 l.instagram.com
+0.0.0.0 i.instagram.com
+0.0.0.0 about.instagram.com
+0.0.0.0 help.instagram.com
+0.0.0.0 api.instagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 platform.instagram.com
+0.0.0.0 logger.instagram.com
+0.0.0.0 b.instagram.com
+0.0.0.0 cdninstagram.com
+0.0.0.0 www.cdninstagram.com
+0.0.0.0 scontent.cdninstagram.com
+0.0.0.0 scontent-iad3-1.cdninstagram.com
+0.0.0.0 scontent-iad3-2.cdninstagram.com
+0.0.0.0 scontent-lga3-1.cdninstagram.com
+0.0.0.0 scontent-lga3-2.cdninstagram.com
+0.0.0.0 scontent-atl3-1.cdninstagram.com
+0.0.0.0 scontent-dfw5-1.cdninstagram.com
+0.0.0.0 scontent-dfw5-2.cdninstagram.com
+0.0.0.0 scontent-sjc3-1.cdninstagram.com
+0.0.0.0 scontent-lax3-1.cdninstagram.com
+0.0.0.0 scontent-lax3-2.cdninstagram.com
+0.0.0.0 scontent-mia3-1.cdninstagram.com
+0.0.0.0 scontent-ord5-1.cdninstagram.com
+0.0.0.0 scontent-sea1-1.cdninstagram.com
+0.0.0.0 scontent-den4-1.cdninstagram.com
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 z-m-scontent.cdninstagram.com
+0.0.0.0 z-p3-scontent.cdninstagram.com
+0.0.0.0 z-p4-scontent.cdninstagram.com
+0.0.0.0 static.cdninstagram.com
